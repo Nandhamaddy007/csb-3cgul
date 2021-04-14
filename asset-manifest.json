@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://nandhamaddy007.github.io/csb-3cgul/static/css/main.fff8b908.chunk.css",
+    "main.js": "https://nandhamaddy007.github.io/csb-3cgul/static/js/main.69375e33.chunk.js",
+    "main.js.map": "https://nandhamaddy007.github.io/csb-3cgul/static/js/main.69375e33.chunk.js.map",
+    "runtime-main.js": "https://nandhamaddy007.github.io/csb-3cgul/static/js/runtime-main.32a92d3d.js",
+    "runtime-main.js.map": "https://nandhamaddy007.github.io/csb-3cgul/static/js/runtime-main.32a92d3d.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "https://nandhamaddy007.github.io/csb-3cgul/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1c29e2be.chunk.js": "https://nandhamaddy007.github.io/csb-3cgul/static/js/2.1c29e2be.chunk.js",
+    "static/js/2.1c29e2be.chunk.js.map": "https://nandhamaddy007.github.io/csb-3cgul/static/js/2.1c29e2be.chunk.js.map",
+    "static/js/3.dc897c7c.chunk.js": "https://nandhamaddy007.github.io/csb-3cgul/static/js/3.dc897c7c.chunk.js",
+    "static/js/3.dc897c7c.chunk.js.map": "https://nandhamaddy007.github.io/csb-3cgul/static/js/3.dc897c7c.chunk.js.map",
+    "index.html": "https://nandhamaddy007.github.io/csb-3cgul/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "https://nandhamaddy007.github.io/csb-3cgul/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.fff8b908.chunk.css.map": "https://nandhamaddy007.github.io/csb-3cgul/static/css/main.fff8b908.chunk.css.map",
+    "static/js/2.1c29e2be.chunk.js.LICENSE.txt": "https://nandhamaddy007.github.io/csb-3cgul/static/js/2.1c29e2be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32a92d3d.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1c29e2be.chunk.js",
+    "static/css/main.fff8b908.chunk.css",
+    "static/js/main.69375e33.chunk.js"
+  ]
+}
